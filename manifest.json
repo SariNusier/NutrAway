@@ -3,11 +3,11 @@
 
 
 
-  "name": "Some extension",
+  "name": "NutrAway",
   "description": "Manipulate the DOM when the page is done loading",
   "version": "1.0",
   "background": "background.html",
-  
+
 
   "browser_action": {
     "name": "Manipulate DOM",
