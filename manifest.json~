@@ -4,7 +4,7 @@
 
 
   "name": "NutrAway",
-  "description": "Google extension that shows the nutritional value of a Just Eat order.",
+  "description": "Manipulate the DOM when the page is done loading",
   "version": "1.0",
   "background": "background.html",
 
